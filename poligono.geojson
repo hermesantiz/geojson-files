@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zona de Cobertura 1",
+        "descripcion": "Cobertura en el centro de Tuxtla Gutiérrez."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-93.1365, 16.7580],
+            [-93.1365, 16.7680],
+            [-93.1265, 16.7680],
+            [-93.1265, 16.7580],
+            [-93.1365, 16.7580]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zona de Cobertura 2",
+        "descripcion": "Cobertura en la zona norte de Tuxtla Gutiérrez."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-93.1465, 16.7680],
+            [-93.1465, 16.7780],
+            [-93.1365, 16.7780],
+            [-93.1365, 16.7680],
+            [-93.1465, 16.7680]
+          ]
+        ]
+      }
+    }
+  ]
+}
